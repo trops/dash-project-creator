@@ -59,4 +59,4 @@ This runs an interactive flow that prompts for GitHub vs. local setup, handles c
 4. Copies `.env.default` to `.env`
 5. Runs `npm run setup` to install dependencies
 
-After setup, each project includes a built-in `dash-widget-builder` skill at `.claude/skills/dash-widget-builder/` for building widgets inside the project.
+After setup, each project includes a built-in [`dash-widget-builder`](https://github.com/trops/dash-electron/tree/master/.claude/skills/dash-widget-builder) skill at `.claude/skills/dash-widget-builder/` for building widgets inside the project.
